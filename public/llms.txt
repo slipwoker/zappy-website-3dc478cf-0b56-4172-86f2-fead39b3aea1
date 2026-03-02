@@ -1,6 +1,4 @@
-# דרך הגוף — Generative Engine Optimization Map
-
-> בנה אתר הזמנות לסטודיו ליוגה
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,14 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About דרך הגוף
-בנה אתר הזמנות לסטודיו ליוגה
-
-## Target Audience
-
-## Industry
-בריאות וכושר
-
+## About Business
 ---
 
 # Additional Resources
