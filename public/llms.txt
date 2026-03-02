@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+סטודיו ליוגה דרך הגוף מזמין אותך לגלות את כוח התרגול. שיעורי יוגה למתחילים ומתקדמים במרחב נעים ומקצועי. הירשם עכשיו לשיעור ניסיון ראשון!
+
+### לוח זמנים
+https://example.com/schedule
+עיין בלוח הזמנים המלא של סטודיו ליוגה דרך הגוף. שיעורים מגוונים לכל רמות הכושר בשעות נוחות. בחר את השיעור שמתאים לך והזמן מקום בקלות!
+
+### פרטי השיעור
+https://example.com/class
+כל מה שצריך לדעת על שיעורי היוגה בדרך הגוף: סוגי תרגולים, רמות קושי, משך השיעורים ומחירים. מצא את השיעור שמדבר אליך ותתחיל להרגיש את השינוי!
+
+### צור קשר
+https://example.com/contact
+יש לך שאלות? רוצה לקבוע שיעור פרטי או להצטרף לקבוצה? צור קשר עם צוות דרך הגוף ונחזור אליך במהירות. אנחנו כאן בשבילך בכל דרך!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
